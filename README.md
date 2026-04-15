@@ -1,6 +1,6 @@
 # Agent-to-Agent (A2A) Protocol Lab
 
-This repository contains a minimal but fully functional Agent-to-Agent (A2A) system, implementing an A2A Server (FastAPI) and an A2A Client, deployed to Google Cloud.
+This repository contains a minimal but fully functional Agent-to-Agent (A2A) system, implementing an A2A Server (FastAPI) and an A2A Client, deployed to Google Cloud. Code implementation and debugging was supported via Gemini 3 Pro.
 
 ## Cloud Deployments
 * **Cloud Run Service URL:** `https://echo-a2a-agent-837585057784.us-central1.run.app`
